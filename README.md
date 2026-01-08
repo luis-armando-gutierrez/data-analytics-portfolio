@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analysis Portfolio
 
 Hi, I’m Luis Armando Gutiérrez Sánchez, a Junior Data Analyst with an engineering background and a strong interest in transforming data into actionable business insights.
 

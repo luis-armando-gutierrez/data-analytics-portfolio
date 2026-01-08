@@ -32,7 +32,7 @@ A regression-based machine learning project focused on predicting used car price
 
 ## Contact
 - **GitHub:** https://github.com/luis-armando-gutierrez  
-- **LinkedIn:** *(add your LinkedIn profile link here)*
+- **LinkedIn:** *www.linkedin.com/in/luis-armando-gutiérrez-sánchez*
 
 ---
 
